@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+    
+}
+
+#persona{
+    gap: 20px 0;
+    padding: 20px;
+}
+
+.col-card{
+    display: flex;
+    justify-content: center;
+}
+
+.text-name{
+    font-family: 'Lora', serif;
+    font-size: 25px;
+}
+
+.text-role{
+    font-family: 'Lora', serif;
+    font-size: 18px;
+}
